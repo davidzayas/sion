@@ -1,0 +1,405 @@
+{
+  "church": {
+    "name": "Iglesia Evangélica Luterana Sión",
+    "shortName": "IELA Sión",
+    "tagline": "Una comunidad de fe sirviendo a Bayamón desde 1907",
+    "pastor": "Rvda. Sandra Soler Estrada",
+    "address": "Calle Dr. Hiram González #211, Bayamón, PR 00959",
+    "mailingAddress": "Apartado #9136, Bayamón, PR 00960",
+    "phone": "(787) 785-2008",
+    "email": "ielasion@hotmail.com",
+    "facebook": "https://www.facebook.com/Iglesia-Evangélica-Luterana-Sion",
+    "youtube": "",
+    "officeHours": "Martes a Viernes: 9:00 a.m. - 12:30 p.m.",
+    "givingInfo": "Puede realizar sus ofrendas y diezmos a través de ATH Móvil, transferencia bancaria, o en persona durante los servicios.",
+    "athMovil": "",
+    "livestreamUrl": ""
+  },
+  "serviceSchedule": {
+    "sunday": [
+      {
+        "time": "10:00 a.m. - 10:45 a.m.",
+        "name": "Escuela Bíblica",
+        "description": "Estudio bíblico para niños y adultos"
+      },
+      {
+        "time": "11:00 a.m. - 12:30 p.m.",
+        "name": "Servicio de Adoración",
+        "description": "Celebración eucarística principal"
+      },
+      {
+        "time": "2:30 p.m.",
+        "name": "Caravana Buen Samaritano",
+        "description": "Alcance comunitario"
+      },
+      {
+        "time": "7:30 p.m.",
+        "name": "Liga Juvenil",
+        "description": "Reunión de jóvenes"
+      }
+    ],
+    "monday": [
+      {
+        "time": "7:30 p.m.",
+        "name": "Sociedades de la Iglesia",
+        "description": "Grupo de damas y Hermandad de caballeros"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "8:00 p.m.",
+        "name": "Ensayo del Coro",
+        "description": "Práctica coral"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "9:30 a.m.",
+        "name": "Arreglo del Altar",
+        "description": "Preparación del altar"
+      },
+      {
+        "time": "9:30 a.m.",
+        "name": "Círculo de Oración",
+        "description": "Oración comunitaria"
+      },
+      {
+        "time": "5:45 p.m.",
+        "name": "Caminatas de Oración",
+        "description": "Oración en la comunidad"
+      },
+      {
+        "time": "8:00 p.m.",
+        "name": "Club de Drama",
+        "description": "Ensayo del grupo de drama"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "7:30 p.m.",
+        "name": "Altar Familiar",
+        "description": "Culto en los hogares"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "9:00 a.m.",
+        "name": "Mujeres Valientes",
+        "description": "Desayuno (segundo sábado del mes)"
+      },
+      {
+        "time": "Varía",
+        "name": "Musicarte",
+        "description": "Programa de música"
+      }
+    ]
+  },
+  "ministries": [
+    {
+      "id": "testimonio",
+      "name": "Testimonio",
+      "icon": "MessageCircle",
+      "description": "Compartimos el mensaje del Evangelio con nuestra comunidad y más allá, siendo testigos del amor de Cristo en palabra y acción.",
+      "content": "El ministerio de Testimonio se dedica a compartir la fe cristiana con nuestra comunidad y más allá de nuestras paredes. A través de visitas, evangelismo personal y actividades de alcance, llevamos el mensaje del amor de Dios a quienes aún no lo conocen. Creemos que cada creyente es llamado a ser testigo del Evangelio en su vida diaria.",
+      "leader": "",
+      "meetingDay": "",
+      "meetingTime": "",
+      "location": "Iglesia Sión",
+      "contactEmail": "ielasion@hotmail.com",
+      "contactPhone": "(787) 785-2008",
+      "imageUrl": "",
+      "active": true,
+      "activities": [
+        {
+          "name": "Evangelismo Personal",
+          "description": "Compartimos nuestra fe en la comunidad de Bayamón a través de visitas y conversaciones."
+        },
+        {
+          "name": "Caminatas de Oración",
+          "description": "Recorremos la comunidad orando por las necesidades de nuestros vecinos."
+        }
+      ]
+    },
+    {
+      "id": "apoyo",
+      "name": "Apoyo",
+      "icon": "Heart",
+      "description": "Brindamos apoyo emocional, espiritual y material a quienes lo necesitan, fortaleciendo los lazos de nuestra comunidad de fe.",
+      "content": "El ministerio de Apoyo existe para acompañar a nuestros hermanos y hermanas en momentos de necesidad. Ofrecemos apoyo emocional, espiritual y material, asegurándonos de que nadie enfrente sus dificultades solo. A través de visitas pastorales, círculos de oración y acompañamiento, fortalecemos los lazos de nuestra comunidad de fe.",
+      "leader": "",
+      "meetingDay": "",
+      "meetingTime": "",
+      "location": "Iglesia Sión",
+      "contactEmail": "ielasion@hotmail.com",
+      "contactPhone": "(787) 785-2008",
+      "imageUrl": "",
+      "active": true,
+      "activities": [
+        {
+          "name": "Círculo de Oración",
+          "description": "Nos reunimos para orar por las necesidades de nuestra congregación y comunidad."
+        },
+        {
+          "name": "Visitas Pastorales",
+          "description": "Visitamos a enfermos, ancianos y personas en necesidad para brindar consuelo y oración."
+        }
+      ]
+    },
+    {
+      "id": "servicio",
+      "name": "Servicio",
+      "icon": "HandHeart",
+      "description": "Servimos a nuestra comunidad a través de programas de alcance, almuerzos comunitarios y asistencia a los más necesitados.",
+      "content": "El ministerio de Servicio refleja el amor de Cristo a través de acciones concretas en nuestra comunidad. Organizamos programas de alcance comunitario, distribuimos alimentos y brindamos asistencia a las familias más necesitadas de Bayamón. Creemos que servir a otros es una expresión fundamental de nuestra fe.",
+      "leader": "",
+      "meetingDay": "Domingos",
+      "meetingTime": "Después del servicio",
+      "location": "Comunidad de Bayamón",
+      "contactEmail": "ielasion@hotmail.com",
+      "contactPhone": "(787) 785-2008",
+      "imageUrl": "",
+      "active": true,
+      "activities": [
+        {
+          "name": "Caravana del Buen Samaritano",
+          "description": "Alcance comunitario los domingos, llevando ayuda y esperanza a los más necesitados."
+        },
+        {
+          "name": "Almuerzo Comunitario",
+          "description": "Compartimos alimentos con la comunidad, fomentando la unidad y el servicio."
+        }
+      ]
+    },
+    {
+      "id": "aprendizaje",
+      "name": "Aprendizaje",
+      "icon": "BookOpen",
+      "description": "Fomentamos el crecimiento espiritual a través de estudios bíblicos, escuela dominical y programas educativos para todas las edades.",
+      "content": "El ministerio de Aprendizaje promueve el crecimiento espiritual continuo de nuestra congregación. A través de estudios bíblicos, la escuela dominical y programas educativos diseñados para todas las edades, buscamos profundizar nuestro conocimiento de la Palabra de Dios y fortalecer nuestra relación con Él.",
+      "leader": "",
+      "meetingDay": "Domingos",
+      "meetingTime": "9:30 a.m.",
+      "location": "Salón Parroquial",
+      "contactEmail": "ielasion@hotmail.com",
+      "contactPhone": "(787) 785-2008",
+      "imageUrl": "",
+      "active": true,
+      "activities": [
+        {
+          "name": "Escuela Bíblica Dominical",
+          "description": "Estudio de la Palabra de Dios para todas las edades los domingos por la mañana."
+        },
+        {
+          "name": "Altar Familiar",
+          "description": "Recursos y guías para el estudio bíblico en el hogar."
+        }
+      ]
+    },
+    {
+      "id": "adoracion",
+      "name": "Adoración",
+      "icon": "Music",
+      "description": "Alabamos a Dios a través de la música, el coro, el grupo de drama y la celebración eucarística dominical.",
+      "content": "El ministerio de Adoración enriquece nuestra vida espiritual a través de la música, las artes y la celebración litúrgica. Nuestro coro, músicos y grupo de drama trabajan juntos para crear experiencias de adoración significativas que glorifiquen a Dios y edifiquen a nuestra congregación.",
+      "leader": "",
+      "meetingDay": "Sábados",
+      "meetingTime": "4:00 p.m.",
+      "location": "Iglesia Sión",
+      "contactEmail": "ielasion@hotmail.com",
+      "contactPhone": "(787) 785-2008",
+      "imageUrl": "",
+      "active": true,
+      "activities": [
+        {
+          "name": "Coro Luterano Sión",
+          "description": "Ministerio coral que dirige la adoración musical durante los servicios."
+        },
+        {
+          "name": "Club de Drama",
+          "description": "Presentaciones dramáticas que comunican el mensaje del Evangelio de forma creativa."
+        },
+        {
+          "name": "Musicarte",
+          "description": "Programa de música y artes que celebra la creatividad como expresión de fe y adoración."
+        }
+      ]
+    },
+    {
+      "id": "vida-parroquial",
+      "name": "Vida Parroquial",
+      "icon": "Users",
+      "description": "Cultivamos una comunidad vibrante a través de actividades sociales, campamentos de verano, eventos especiales y confraternidad.",
+      "content": "El ministerio de Vida Parroquial se encarga de cultivar una comunidad vibrante y unida. Organizamos actividades sociales, eventos especiales y programas que fortalecen los lazos entre nuestros miembros. Desde campamentos de verano hasta reuniones de confraternización, buscamos que cada persona se sienta parte de nuestra familia en Cristo.",
+      "leader": "",
+      "meetingDay": "",
+      "meetingTime": "",
+      "location": "Salón Parroquial",
+      "contactEmail": "ielasion@hotmail.com",
+      "contactPhone": "(787) 785-2008",
+      "imageUrl": "",
+      "active": true,
+      "activities": [
+        {
+          "name": "Campamento Bíblico de Verano",
+          "description": "Programa anual de verano para niños y jóvenes con actividades bíblicas, manualidades y juegos."
+        },
+        {
+          "name": "Mujeres Valientes",
+          "description": "Grupo de apoyo y crecimiento espiritual para mujeres de la congregación."
+        },
+        {
+          "name": "Liga Juvenil",
+          "description": "Espacio para jóvenes con actividades de compañerismo, estudio bíblico y servicio."
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "title": "Servicio Dominical",
+      "date": "Todos los domingos",
+      "time": "11:00 a.m.",
+      "description": "Celebración eucarística semanal. Todos son bienvenidos.",
+      "recurring": true
+    },
+    {
+      "id": "2",
+      "title": "Escuela Bíblica",
+      "date": "Todos los domingos",
+      "time": "10:00 a.m.",
+      "description": "Estudio bíblico para niños y adultos antes del servicio.",
+      "recurring": true
+    },
+    {
+      "id": "3",
+      "title": "Mujeres Valientes - Desayuno",
+      "date": "Segundo sábado de cada mes",
+      "time": "9:00 a.m.",
+      "description": "Desayuno y confraternidad para mujeres de la congregación.",
+      "recurring": true
+    }
+  ],
+  "announcements": [
+    {
+      "id": "1",
+      "title": "Bienvenidos a nuestro nuevo sitio web",
+      "content": "Estamos emocionados de lanzar nuestro nuevo sitio web. Aquí encontrarán información actualizada sobre nuestros servicios, eventos y ministerios.",
+      "date": "2026-02-14",
+      "active": true
+    },
+    {
+      "id": "1771174090534",
+      "title": "Maguayo!",
+      "content": "Vamos a maugayo para una salida con la congregación.",
+      "date": "2026-02-15",
+      "active": false
+    }
+  ],
+  "history": {
+    "founded": "1907",
+    "timeline": [
+      {
+        "year": "1907",
+        "event": "Sión comienza como una misión de la Iglesia Santísima Trinidad el 29 de noviembre, ubicada en la esquina de la Calle Comercio. Se establece la escuela dominical de inmediato."
+      },
+      {
+        "year": "1909",
+        "event": "Se construye una capilla de madera para la creciente congregación."
+      },
+      {
+        "year": "1912",
+        "event": "Se organiza la Liga Juvenil Luterana el 2 de julio, incluso antes de que la congregación se estableciera formalmente."
+      },
+      {
+        "year": "1913",
+        "event": "La congregación se organiza oficialmente el 27 de abril de 1913."
+      },
+      {
+        "year": "1926",
+        "event": "Rosario Ojeda comienza a enseñar kindergarten y se convierte en una figura central del ministerio: misionera, compositora de himnos, organista, tesorera y consejera de jóvenes."
+      },
+      {
+        "year": "1934",
+        "event": "Se funda la organización de Caballeros Evangélicos."
+      },
+      {
+        "year": "1945",
+        "event": "El Rev. César A. Cotto es instalado el 11 de febrero, sirviendo por 35 años."
+      },
+      {
+        "year": "1950",
+        "event": "Se establece el Coro Luterano Sión bajo la dirección del Dr. Ángel M. Mattos, con el lema 'Desde Dios hasta los hombres por medio de la música'."
+      },
+      {
+        "year": "1958",
+        "event": "La congregación logra ser autosostenible bajo el liderazgo del Rev. Cotto."
+      },
+      {
+        "year": "1965",
+        "event": "Se completa la construcción del nuevo templo."
+      },
+      {
+        "year": "2005",
+        "event": "La Rvda. Vivian Dávila, una hija de Sión, se convierte en pastora de la congregación."
+      },
+      {
+        "year": "2007",
+        "event": "La iglesia celebra 100 años de historia y servicio a la comunidad de Bayamón."
+      }
+    ]
+  },
+  "sermons": [
+    {
+      "id": "1",
+      "title": "La Gracia que Transforma",
+      "pastor": "Rvda. Vivian J. Dávila",
+      "date": "2026-02-09",
+      "scripture": "Efesios 2:8-10",
+      "summary": "Un mensaje sobre cómo la gracia de Dios nos transforma y nos capacita para vivir una vida de fe y servicio.",
+      "description": "<h3><b>Este mensaje funciona</b></h3><div><br></div><p></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ante quam, aliquet sit amet mauris sit amet, bibendum iaculis lacus. Quisque quis ipsum ut erat interdum ultrices quis ut purus. Sed eu tincidunt arcu, at egestas sem. In tristique turpis et tincidunt varius. Donec finibus eu justo et sagittis. Fusce sit amet tellus elit. Donec maximus auctor dolor et dictum.</p><p><br></p><p>Aliquam erat volutpat. Nunc lacinia ligula eu odio aliquam egestas vitae ac nisl. Vestibulum maximus sagittis mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et imperdiet erat, et mattis enim. Quisque non vulputate nisi, id vulputate orci. Morbi odio tellus, laoreet sed rutrum ac, vestibulum ut felis. Phasellus ipsum velit, euismod sed porta non, sagittis et ex. Vivamus dictum, lorem non luctus laoreet, erat lorem bibendum erat, sed scelerisque nulla turpis fermentum felis.</p><p><br></p><p>Vestibulum vel sem non nisl egestas venenatis sit amet nec nisi. Donec ligula arcu, pharetra id turpis non, auctor vestibulum felis. Suspendisse venenatis faucibus urna, in porta lorem feugiat in. Suspendisse facilisis justo in nibh commodo, a luctus dui sollicitudin. Integer nisi tellus, vestibulum ac malesuada vitae, suscipit ac diam. Maecenas condimentum mi sed nibh auctor, in pretium nulla vulputate. Duis ante diam, maximus aliquam venenatis sed, blandit vel lorem. Maecenas ultrices magna leo, eget tempus tellus interdum tempus. Integer sed lacus a nisi mollis consectetur posuere vitae orci. Aenean nec semper lorem. Quisque sit amet suscipit ex, nec tempus metus. Cras vel nisi sit amet sem porttitor interdum. Ut vitae sagittis diam.</p><p><br></p><p>Donec iaculis tellus ac molestie tempor. Praesent iaculis odio porttitor urna commodo, ac efficitur sem lacinia. Maecenas sagittis erat felis, at iaculis magna lobortis sed. Vivamus hendrerit aliquet nulla sed sagittis. Nulla feugiat pretium facilisis. Nullam imperdiet nunc viverra, finibus orci non, bibendum lorem. Duis lobortis at mauris eu maximus. Mauris vitae erat et urna tempor ultrices at non augue. Donec et lectus dignissim dui sodales accumsan. Aliquam tellus nisl, dapibus vitae aliquam in, placerat quis augue. Praesent rhoncus egestas libero, et euismod lorem ullamcorper a.</p><p><br></p><p>Curabitur volutpat quis urna efficitur tincidunt. Aliquam mi quam, consequat eu libero a, ornare aliquam diam. Quisque in consectetur mauris, quis dapibus diam. Phasellus tempor, leo at tristique efficitur, arcu mi ultricies turpis, sed accumsan massa lorem sit amet velit. Cras lorem ligula, rutrum at libero eu, hendrerit maximus velit. Donec eu luctus lacus, vel bibendum elit. Vestibulum molestie sem vel magna accumsan, sed aliquam mi eleifend. Nunc eleifend tristique est, eu pharetra neque ornare eu. Vivamus a ultricies est, sit amet laoreet quam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent condimentum odio sit amet purus tincidunt consequat. Proin orci mi, iaculis a eros sit amet, gravida sollicitudin purus. Curabitur vel arcu faucibus, mollis massa eu, pharetra velit. Nulla blandit quis sem id iaculis. </p><p></p>",
+      "transcript": "",
+      "videoUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "1771184625652",
+      "title": "Un nuevo sermonm",
+      "pastor": "Juan el Bautista",
+      "date": "2026-02-08",
+      "scripture": "Genesis 1:1",
+      "summary": "Reflexión sobre los inicios de la creación y el propósito de Dios para cada uno de nosotros.",
+      "description": "<h3><b>Otro sermon para probar</b></h3><div><br></div><div><p></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ante quam, aliquet sit amet mauris sit amet, bibendum iaculis lacus. Quisque quis ipsum ut erat interdum ultrices quis ut purus. Sed eu tincidunt arcu, at egestas sem. In tristique turpis et tincidunt varius. Donec finibus eu justo et sagittis. Fusce sit amet tellus elit. Donec maximus auctor dolor et dictum.</p><p><br></p><p>Aliquam erat volutpat. Nunc lacinia ligula eu odio aliquam egestas vitae ac nisl. Vestibulum maximus sagittis mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et imperdiet erat, et mattis enim. Quisque non vulputate nisi, id vulputate orci. Morbi odio tellus, laoreet sed rutrum ac, vestibulum ut felis. Phasellus ipsum velit, euismod sed porta non, sagittis et ex. Vivamus dictum, lorem non luctus laoreet, erat lorem bibendum erat, sed scelerisque nulla turpis fermentum felis.</p><p><br></p><p>Vestibulum vel sem non nisl egestas venenatis sit amet nec nisi. Donec ligula arcu, pharetra id turpis non, auctor vestibulum felis. Suspendisse venenatis faucibus urna, in porta lorem feugiat in. Suspendisse facilisis justo in nibh commodo, a luctus dui sollicitudin. Integer nisi tellus, vestibulum ac malesuada vitae, suscipit ac diam. Maecenas condimentum mi sed nibh auctor, in pretium nulla vulputate. Duis ante diam, maximus aliquam venenatis sed, blandit vel lorem. Maecenas ultrices magna leo, eget tempus tellus interdum tempus. Integer sed lacus a nisi mollis consectetur posuere vitae orci. Aenean nec semper lorem. Quisque sit amet suscipit ex, nec tempus metus. Cras vel nisi sit amet sem porttitor interdum. Ut vitae sagittis diam.</p><p><br></p><p>Donec iaculis tellus ac molestie tempor. Praesent iaculis odio porttitor urna commodo, ac efficitur sem lacinia. Maecenas sagittis erat felis, at iaculis magna lobortis sed. Vivamus hendrerit aliquet nulla sed sagittis. Nulla feugiat pretium facilisis. Nullam imperdiet nunc viverra, finibus orci non, bibendum lorem. Duis lobortis at mauris eu maximus. Mauris vitae erat et urna tempor ultrices at non augue. Donec et lectus dignissim dui sodales accumsan. Aliquam tellus nisl, dapibus vitae aliquam in, placerat quis augue. Praesent rhoncus egestas libero, et euismod lorem ullamcorper a.</p><p><br></p><p>Curabitur volutpat quis urna efficitur tincidunt. Aliquam mi quam, consequat eu libero a, ornare aliquam diam. Quisque in consectetur mauris, quis dapibus diam. Phasellus tempor, leo at tristique efficitur, arcu mi ultricies turpis, sed accumsan massa lorem sit amet velit. Cras lorem ligula, rutrum at libero eu, hendrerit maximus velit. Donec eu luctus lacus, vel bibendum elit. Vestibulum molestie sem vel magna accumsan, sed aliquam mi eleifend. Nunc eleifend tristique est, eu pharetra neque ornare eu. Vivamus a ultricies est, sit amet laoreet quam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent condimentum odio sit amet purus tincidunt consequat. Proin orci mi, iaculis a eros sit amet, gravida sollicitudin purus. Curabitur vel arcu faucibus, mollis massa eu, pharetra velit. Nulla blandit quis sem id iaculis. </p><br></div>",
+      "transcript": "",
+      "videoUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "gallery": [
+    {
+      "id": "1",
+      "title": "Nuestra Iglesia",
+      "description": "Vista del templo de la Iglesia Evangélica Luterana Sión en Bayamón.",
+      "category": "iglesia",
+      "imageUrl": "/uploads/placeholder-church.jpg",
+      "date": "2026-01-01"
+    }
+  ],
+  "prayerRequests": [],
+  "newsletterSubscribers": [
+    {
+      "email": "zayas.david@gmail.com",
+      "subscribedAt": "2026-02-01"
+    }
+  ],
+  "bulletins": [
+    {
+      "id": "1771190437917",
+      "title": "Boleting numero uno",
+      "date": "2026-02-15",
+      "summary": "Este es el resumen de el boletin",
+      "content": "<h3><b>Hola</b></h3><div><br></div><div>Everything is all good!</div>",
+      "published": false
+    }
+  ]
+}
